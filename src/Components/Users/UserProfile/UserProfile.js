@@ -4,7 +4,7 @@ import { Input } from 'reactstrap';
 import { toast } from 'react-toastify';
 
 
-const UsersList = (props) => {
+const UsersProfile = (props) => {
     const { userData } = props;
     const [firstName, setFirstName] = useState("");
     const [lastName, setLastName] = useState("");
@@ -180,4 +180,4 @@ const UsersList = (props) => {
 }
 
 
-export default UsersList;
+export default UsersProfile;
