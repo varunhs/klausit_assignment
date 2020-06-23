@@ -1,0 +1,40 @@
+.labelFiledContainer {
+    width: 30%;
+}
+
+.inputLabel {
+    display: block;
+    padding: 6px 0;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+
+
+.inpiutField {
+    border: 0;
+    border-bottom: 2px solid grey;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.inpiutField:focus {
+    outline: none;
+}
+
+.formContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.moreUserDetails {
+    font-weight: 600;
+}
+
+.userDetailsSection {
+    display: flex;
+}
+
+.submitButton {
+    text-align: center;
+}

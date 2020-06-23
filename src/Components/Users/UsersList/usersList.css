@@ -1,0 +1,22 @@
+
+.userslistTable {
+  width: 100%;
+}
+.headingRow {
+  width: 100%;
+}
+
+.heading {
+  padding: 10px;
+  text-align: left;
+  background-color: #aaaaaa;  
+}
+
+.dataRow:hover {
+  background: gainsboro;
+
+}
+.tableData {
+  cursor: pointer;
+  padding: 10px;
+}
